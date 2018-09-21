@@ -1,6 +1,9 @@
 def weight_on_planets():
    # write your code here
    
+   print("hello world ", end=' ')
+   
+   
    
    
 if __name__ == '__main__':
